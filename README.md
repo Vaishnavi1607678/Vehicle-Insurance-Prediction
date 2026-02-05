@@ -1,5 +1,4 @@
-# MLOPS-project
-My very first project
+# Vehicle Insurance Prediction
 
 
 <img width="1920" height="1080" alt="Screenshot (1093)" src="https://github.com/user-attachments/assets/4e0e4eb1-7a08-43b1-8309-8643cfefd8fb" />
